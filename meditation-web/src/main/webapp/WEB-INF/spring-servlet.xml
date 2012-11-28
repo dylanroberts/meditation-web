@@ -11,10 +11,8 @@
  
     <context:component-scan base-package="ca.quiet.mind.controller" />
     
-	<!-- the mvc resources tag does the magic -->
 	<mvc:resources mapping="/resources/**" location="/resources/" />
 
-	<!-- also add the following beans to get rid of some exceptions -->
 	<bean class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter" />
  	<bean class="org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping" />
          
