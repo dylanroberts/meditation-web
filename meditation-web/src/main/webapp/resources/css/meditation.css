@@ -1,14 +1,19 @@
 body {
-	background-color: gray;
+	background-color: black;
 }
 
 div.content {
 	text-align: center;
 }
 
+div.outer {
+	width: 100%;
+}
+
 div.content {
 	position: relative;
 	width: 1366px;
+	margin: 0px auto;
 }
 
 img.background {
