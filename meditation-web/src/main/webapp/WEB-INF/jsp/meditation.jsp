@@ -6,12 +6,16 @@
 	<body>
 		<div class="outer">
 			<div class="content">
-				<img class="background" src="resources/img/bg.jpg" />
+				<img class="background" src="resources/img/lotus.jpg" />
 				<div class="message">
 					<h1>Quiet Mind Meditation</h1>
-					<p><br/><br/><br/>37 Woodsview Ave.<br/>Grimsby, Ontario</p>
-					<p>Phone: 905-945-7666<br/>E-mail: <a href="mailto:PRobertsMeditate@gmail.com">PRobertsMeditate@gmail.com</a></p>
-					<img class="room" alt="room" src="resources/img/room.jpg" />
+					<div class="inner-message">
+						<p>37 Woodsview Ave.<br/>Grimsby, Ontario</p>
+						<p>Phone: 905-945-7666<br/>E-mail: <a href="mailto:PRobertsMeditate@gmail.com">PRobertsMeditate@gmail.com</a></p>
+						<p>Please call or email for class times.</p>
+						<p>Namaste</p>
+					</div>
+					<img class="room" alt="room" src="resources/img/room-1.jpg" />
 				</div>
 			</div>
 		</div>
